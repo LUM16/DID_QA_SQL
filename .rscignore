@@ -1,0 +1,11 @@
+.env
+.env.local
+__pycache__/
+*.pyc
+.streamlit/
+.posit/
+.venv/
+venv/
+etl/
+sql/
+_docx_extract.txt

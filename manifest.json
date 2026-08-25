@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "locale": "English_United States.1252",
+  "metadata": {
+    "appmode": "python-streamlit",
+    "entrypoint": "app.py"
+  },
+  "python": {
+    "version": "3.11.1",
+    "package_manager": {
+      "name": "pip",
+      "version": "22.3.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "environment": {
+    "python": {
+      "requires": "~=3.11.0"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "1b5e069a4a615972d7a3dba131b036d6"
+    },
+    ".env.example": {
+      "checksum": "54f1a43df7ddcd36981c95c279aa54b2"
+    },
+    ".gitignore": {
+      "checksum": "85350f4be00692d60f1f9ebbca4ad492"
+    },
+    ".python-version": {
+      "checksum": "3d422ce087cdb6a52021b017f42d810a"
+    },
+    ".rscignore": {
+      "checksum": "7f2ae12644ead870de3b53210d48d105"
+    },
+    "GITHUB_DEPLOY.md": {
+      "checksum": "7d8f1171afb6e18393087ef319d244b4"
+    },
+    "README.md": {
+      "checksum": "b5e9977634b98c6192b492fd710fee20"
+    },
+    "agent.py": {
+      "checksum": "993b42f9899ec445bee32926df2620d0"
+    },
+    "app.py": {
+      "checksum": "01c8cf87630bd7613fb6a8f6acddc1dc"
+    },
+    "config.py": {
+      "checksum": "e1f5fb8c55900a80cc512201b7d39197"
+    },
+    "neo4j_client.py": {
+      "checksum": "6a69e06b5f3e70713a5f212f2a131741"
+    },
+    "pg_client.py": {
+      "checksum": "a05ed04e9865cdd5f404e5a7cbdb17bb"
+    },
+    "start-local.bat": {
+      "checksum": "c90d6e480d1be6b8f61cfc4a6c97bd75"
+    },
+    "vox_client.py": {
+      "checksum": "4e92aeff18bc1ca038c7081e3815a03f"
+    }
+  }
+}

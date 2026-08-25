@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local / IDE / OS
+.posit/
+.cursor/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Streamlit local cache
+.streamlit/
+
+# Secrets / local env (never commit)
+.env
+.env.local
+*.pem
+*.key
+credentials.json
+
+# Local extracts
+_docx_extract.txt
